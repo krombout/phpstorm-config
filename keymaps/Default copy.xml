@@ -5,6 +5,9 @@
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="ConvertIndentsToSpaces">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
