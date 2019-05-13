@@ -2,6 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.6.4" />
     <option name="selectedTheme" value="DARKER" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="80cbc4" />
     <option name="isCompactStatusBar" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="userId" value="-566e3ef9:1697dd4608e:-8000" />
