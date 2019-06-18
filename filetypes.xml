@@ -9,6 +9,7 @@
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern="PaydiaCommonServiceProvider.php" type="PLAIN_TEXT" />
       <mapping pattern="sess_253e8bbe3ba9c77c13e5dd10b935905c" type="PLAIN_TEXT" />
+      <mapping pattern="lucid" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
