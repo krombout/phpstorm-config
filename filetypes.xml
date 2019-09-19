@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="RebuildMarginInvoiceComponentTotals" type="PHP" />
+      <mapping pattern="phpcs_phpstorm" type="PLAIN_TEXT" />
       <mapping pattern="lucid" type="PLAIN_TEXT" />
       <mapping pattern="sess_253e8bbe3ba9c77c13e5dd10b935905c" type="PLAIN_TEXT" />
       <mapping pattern="PaydiaCommonServiceProvider.php" type="PLAIN_TEXT" />
