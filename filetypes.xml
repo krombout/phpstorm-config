@@ -7,8 +7,8 @@
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern="phpcs_phpstorm" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
-      <mapping pattern="lucid" type="PLAIN_TEXT" />
       <mapping pattern="cats-updater" type="PLAIN_TEXT" />
+      <mapping pattern="lucid" type="PLAIN_TEXT" />
       <mapping pattern="oauth" type="PLAIN_TEXT" />
       <mapping pattern="phpcbf_phpstorm" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
