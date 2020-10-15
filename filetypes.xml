@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="RebuildMarginInvoiceComponentTotals" type="PHP" />
       <mapping pattern="PaydiaCommonServiceProvider.php" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern="phpcs_phpstorm" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
